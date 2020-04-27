@@ -1,0 +1,14 @@
+{
+  "main.css": "/weaver/static/css/main.7444bb42.chunk.css",
+  "main.js": "/weaver/static/js/main.0b88ca17.chunk.js",
+  "main.js.map": "/weaver/static/js/main.0b88ca17.chunk.js.map",
+  "static/js/1.e9cea6cd.chunk.js": "/weaver/static/js/1.e9cea6cd.chunk.js",
+  "static/js/1.e9cea6cd.chunk.js.map": "/weaver/static/js/1.e9cea6cd.chunk.js.map",
+  "runtime~main.js": "/weaver/static/js/runtime~main.599969cc.js",
+  "runtime~main.js.map": "/weaver/static/js/runtime~main.599969cc.js.map",
+  "static/media/App.css": "/weaver/static/media/antipastopro-demibold-webfont.d499e521.woff",
+  "static/css/main.7444bb42.chunk.css.map": "/weaver/static/css/main.7444bb42.chunk.css.map",
+  "index.html": "/weaver/index.html",
+  "precache-manifest.f6a23db18e9a09a5f3db1720e63e78bf.js": "/weaver/precache-manifest.f6a23db18e9a09a5f3db1720e63e78bf.js",
+  "service-worker.js": "/weaver/service-worker.js"
+}
